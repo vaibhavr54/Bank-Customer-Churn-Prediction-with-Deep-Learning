@@ -74,7 +74,7 @@ To build a robust machine learning model that can accurately predict if a custom
 
 1. Clone the repo:
    ```
-   git clone https://github.com/vaibhavr54/bank-churn-prediction-deep-learning.git
+   git clone https://github.com/vaibhavr54/Bank-Customer-Churn-Prediction-with-Deep-Learning.git
    cd bank-churn-prediction-deep-learning
 
 2. Install dependencies:
