@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction with Deep Learning
 
-A machine learning project focused on predicting customer churn using Artificial Neural Networks in TensorFlow-Keras. This notebook explores performance optimization, handles class imbalance (using SMOTE, over- & under-sampling), and evaluates various architectures using metrics like accuracy, F1-score, and confusion matrix.
+A machine learning project focused on predicting customer churn using **Artificial Neural Networks** in TensorFlow-Keras. This notebook explores performance optimization, handles class imbalance (using SMOTE, over- & under-sampling), and evaluates various architectures using metrics like accuracy, F1-score, and confusion matrix.
 
 
 ## 📂 Dataset
